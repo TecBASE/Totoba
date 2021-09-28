@@ -1,0 +1,72 @@
+"file":/home/usuario/Desktop/orthogroups.json",
+  {
+    "": "Number of genes",
+    "Astyanax_mexicanus-2.0": 2415,
+    "Danio_rerio": 1923,
+    "Gadus_morhua": 227,
+    "Totoaba_macdonaldi": 201812
+  },
+  {
+    "": "Number of genes in orthogroups",
+    "Astyanax_mexicanus-2.0": 718,
+    "Danio_rerio": 1061,
+    "Gadus_morhua": 209,
+    "Totoaba_macdonaldi": 73356
+  },
+  {
+    "": "Number of unassigned genes",
+    "Astyanax_mexicanus-2.0": 1697,
+    "Danio_rerio": 862,
+    "Gadus_morhua": 18,
+    "Totoaba_macdonaldi": 128456
+  },
+  {
+    "": "Percentage of genes in orthogroups",
+    "Astyanax_mexicanus-2.0": 29.7,
+    "Danio_rerio": 55.2,
+    "Gadus_morhua": 92.1,
+    "Totoaba_macdonaldi": 36.3
+  },
+  {
+    "": "Percentage of unassigned genes",
+    "Astyanax_mexicanus-2.0": 70.3,
+    "Danio_rerio": 44.8,
+    "Gadus_morhua": 7.9,
+    "Totoaba_macdonaldi": 63.7
+  },
+  {
+    "": "Number of orthogroups containing species",
+    "Astyanax_mexicanus-2.0": 192,
+    "Danio_rerio": 139,
+    "Gadus_morhua": 67,
+    "Totoaba_macdonaldi": 15500
+  },
+  {
+    "": "Percentage of orthogroups containing species",
+    "Astyanax_mexicanus-2.0": 1.2,
+    "Danio_rerio": 0.9,
+    "Gadus_morhua": 0.4,
+    "Totoaba_macdonaldi": 99.7
+  },
+  {
+    "": "Number of species-specific orthogroups",
+    "Astyanax_mexicanus-2.0": 0,
+    "Danio_rerio": 0,
+    "Gadus_morhua": 3,
+    "Totoaba_macdonaldi": 15278
+  },
+  {
+    "": "Number of genes in species-specific orthogroups",
+    "Astyanax_mexicanus-2.0": 0,
+    "Danio_rerio": 0,
+    "Gadus_morhua": 6,
+    "Totoaba_macdonaldi": 71728
+  },
+  {
+    "": "Percentage of genes in species-specific orthogroups",
+    "Astyanax_mexicanus-2.0": 0,
+    "Danio_rerio": 0,
+    "Gadus_morhua": 2.6,
+    "Totoaba_macdonaldi": 35.5
+  }
+]
